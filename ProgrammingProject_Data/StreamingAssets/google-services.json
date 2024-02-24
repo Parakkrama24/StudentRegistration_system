@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "316903548802",
+    "firebase_url": "https://programmingproject-cbfd4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "programmingproject-cbfd4",
+    "storage_bucket": "programmingproject-cbfd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316903548802:android:cfc3291c88f4067050119b",
+        "android_client_info": {
+          "package_name": "com.hyperX.ProgramingProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AtfZjDTsdbimwhodfPLex5rEexx6V7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
